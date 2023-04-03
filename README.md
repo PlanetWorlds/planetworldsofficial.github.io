@@ -1,3 +1,3 @@
 "# planetworldsofficial.github.io" 
-"# planetworldsofficial.github.io" 
-"# planetworldsofficial.github.io" 
+"# planetwrldsofficial.github.io" 
+"# planetdev.github.io" 
